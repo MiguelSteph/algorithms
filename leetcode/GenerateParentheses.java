@@ -1,6 +1,6 @@
 /**
  * Lien du problème : https://leetcode.com/problems/generate-parentheses/
- * Youtube Video Lien:
+ * Youtube Video Lien: https://youtu.be/vnICp7TjwPE
  * Auteur de la solution : Miguel Stephane KAKANAKOU
  * Date: 10-07-2022
  */
