@@ -1,6 +1,6 @@
 /**
  * Lien du problème : https://leetcode.com/problems/koko-eating-bananas/
- * Youtube Video Lien: 
+ * Youtube Video Lien: https://youtu.be/qnXH24_mILI
  * Auteur de la solution : Miguel Stephane KAKANAKOU
  * Date: 26-07-2022
  */
@@ -44,22 +44,3 @@ class Solution {
         return nbrHours <= h;
     }
 }
-
-/*
-Input: piles = [30,11,23,4,20], h = 5
-Output: 30
-
-
-minimum => 18
-maximum => 30
-
-*/
-
-
-/*
-Input: piles = [3,6,7,11], h = 8
-k = 4
-
-minimum => 27 / 8 => 4
-maximum => 11
-*/
